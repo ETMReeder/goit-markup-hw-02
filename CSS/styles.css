@@ -1,0 +1,147 @@
+:root {
+    --maincolor: #2196f3;
+    --backgroundcolor: #2F303A;
+
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+button:hover {
+    color: var(--maincolor);
+}
+a:hover {
+    color: var(--maincolor);
+}
+.fraleway {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 30.52;
+    color: var(--maincolor);
+}
+.top {
+    font-weight: 500;
+    font-size: 14 px;
+    line-height: 16.41;
+}
+.headmain {
+    background-color: var(--backgroundcolor);
+    color: #fff;
+}
+h1 {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+}
+.indexbutton {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    background-color: var(--maincolor);
+    height: 50px;
+    width: 200px;
+    left: 700px;
+    top: 439px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+h4 {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+.imgtech1 {
+    height: 323.70465087890625px;
+    width: 373.1623840332031px;
+    left: -1460px;
+    top: -47.70466613769531px;
+
+}
+.imgtech2 { 
+    height: 323.70465087890625px;
+    width: 373.1623840332031px;
+    left: -1056.5811767578125px;
+    top: -47.70466613769531px;
+    
+}
+.imgtech3 {
+    height: 323.70465087890625px;
+    width: 373.1623840332031px;
+    left: -636px;
+    top: -60px;
+   
+}
+ .imgnerd1 {
+    height: 260px;
+    width: 270px;
+    left: 215px;
+    top: 1635px;
+ }
+
+.imgnerd2 {
+    height: 260px;
+    width: 270px;
+    left: 515px;
+    top: 1635px;
+    border-radius: 0px;
+}
+
+.imgnerd3{
+    height: 260px;
+    width: 270px;
+    left: 815px;
+    top: 1635px;
+    border-radius: 0px;
+}
+
+.imgnerd4 {
+    height: 260px;
+    width: 270px;
+    left: 1115px;
+    top: 1635px;
+    border-radius: 0px;
+}
+
+h5 {
+   
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+h6 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+
+.bottom {
+    font-size: 400;
+    font-size: 14 px;
+    line-height: 24px;
+    color: #fff;
+    background-color: var(--backgroundcolor);
+}
+
+
